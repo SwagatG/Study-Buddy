@@ -1,0 +1,2024 @@
+UNIT
+#
+5' cap 
+The 5' end of a pre-mRNA molecule modified by the addition of a cap of guanine nucleotide.
+10% rule 
+Only 10% of the total energy produced at each trophic level is available to the next level. The amount of energy passed up to the levels of the food pyramid reduces as you go up.
+UNIT
+A
+Abdominal Cavity 
+Cavity housing intestines.
+Abiotic Factors 
+Nonliving components of environment.
+Abscisic Acid
+A plant hormone that slows down growth, promotes seed dormancy and facilitates drought tolerance.
+Absorption Spectrum 
+A graph plotting a pigment light light absorption.
+Acclimatization 
+Adjusting to a new range of environmental temperatures.
+Acetylcholine 
+Common vertebrate neurotransmitter, especially in neuromuscular junctions.
+Acetyl-CoA 
+Is formed when pyruvate first enters into the mitochondria via active transport.
+Acquired Immunity 
+Immunity that is present only after exposure and is highly specific.
+AIDS
+The most advanced, and fatal, stage of an HIV infection.
+Action Potential 
+A neural impulse; a brief electrical charge that travels down an axon.
+Action Spectrum 
+A profile of the relative performance of the different wavelengths in photosynthesis.
+Activation Energy 
+The amount of energy needed to push the reactants over an energy barrier.
+Activator 
+A protein that binds to DNA and stimulates transcription of a specific gene.
+Active Immunity 
+A form of acquired immunity in which the body produces its own antibodies against disease-causing antigens.
+Active Site 
+A pocket or groove on the surface of the enzyme.
+Active Transport 
+When a cell gets materials or excretes them by using its own energy, usually through ATP; going against a concentration gradient.
+Actual Evapotranspiration 
+Annual amount of water transpired by plants and evaporated from landscape.
+Actual Range 
+Area an organism actually occupies.
+Adaptive Radiation 
+Evolution of many new species from a common ancestor as a result of introduction to new environments.
+Addition Rule 
+Considering mutually exclusive events, the probability of both occurring is the sum of the probabilities of each event.
+Adenylyl Cyclase 
+Converts ATP to cyclic AMP in response to an extracellular signal.
+Adhesion 
+Water molecules sticking to other surfaces.
+Adipose Tissue 
+Tissue that stores fat.
+Age Structure 
+Relative number of individuals at each age.
+Aggregate Fruit 
+A fruit derived from a single flower that has more than one carpel.
+Agonistic Behavior 
+Competition that determines who wins a prize, such as food or mates.
+Alcohol Fermentation 
+When pyruvate is converted to ethanol in 2 steps.
+Allele 
+One of the alternative forms of a gene that governs a characteristic, such as hair color.
+Allele Frequency 
+Proportion of an allele in a gene pool.
+Allometric Growth 
+Proportioning that gives a body a specific form.
+Allopatric Speciation 
+When a population is divided; leads to speciation.
+Allopolyploid 
+Sterile hybrid is changed to a fertile polyploid due to mutation; fertile with each other, but not parent species.
+Allosteric Regulation 
+When a protein's function at one site is affected by the binding of a regulatory molecule to a separate site.
+Alpha Glucose 
+Monomer for starch and glycogen.
+Alteration of Generations 
+The alteration of two or more different forms in the life cycle of a plant or animal.
+Alternative RNA Splicing 
+Genes giving rise to two or more different polypeptides depending upon which segments are treated as exons.
+Altruism 
+Behavior that benefits another without benefiting oneself.
+Aminocentesis 
+Prenatal diagnostic technique that involves inserting a needle to obtain a sample of amniotic fluid that surrounds the fetus.
+Amphipathic 
+Molecules are said to be this when it has regions that are both hydrophilic and hydrophobic.
+Anabolic Pathways 
+Metabolic pathways that consume energy to build complicated molecules from simpler ones.
+Anabolism 
+Metabolic pathways that construct molecules, requiring energy.
+Anaerobic 
+Occurs by fermentation, which generate ATP solely by substrate-level phosphorylation.
+Analogy 
+Anatomical similarity due to convergent evolution.
+Anaphylactic Shock 
+A severe reaction that occurs when an allergen is introduced to the bloodstream of an allergic individual. Characterized by bronchoconstriction, labored breathing, widespread vasodilation, circulatory shock, and sometimes sudden death.
+Anatomy 
+Study of the structure of an organism.
+Aneuploidy 
+Abnormal number of chromosomes.
+Anther 
+In an angiosperm, the terminal pollen sac of a stamen, where pollen grains containing sperm-producing male gametophytes form.
+Antibiotic Resistance 
+Resistance evolving rapidly in many species of prokaryotes due to overuse of antibiotics, especially in agriculture.
+Antibiotics 
+Interfere with production of peptidoglycan; harm bacteria but not eukaryotes.
+Antibodies 
+Protein that is produced by lymphocytes and that attaches to a specific antigen.
+Anticodon 
+Specialized base triplet at one end of a tRNA molecule that recognizes a particular complementary codon on an mRNA molecule.
+Antigen 
+Any foreign molecule that is specifically recognized by lymphocytes and elicits an immune response.
+Antigen Presentation 
+The process by which an MHC molecule binds to a fragment of an intracellular protein antigen and carries it to the cell surface, where it is displayed and can be recognized by a T cell.
+Apoptosis 
+Programmed cell death.
+Aposematic Coloration 
+Bright warning colors in animals with a chemical defense.
+Aquaporin 
+A membrane protein, specifically a transport protein, that facilitates the passage of water through channel proteins.
+Archaea 
+Domain of unicellular prokaryotes that have cell walls lacking peptidoglycan. Like eukaryotes, DNA contains histone proteins.
+Artificial Selection 
+Humans modifying species for desired traits through selective breeding.
+Asexual Reproduction 
+One parent produces a genetically identical offspring by mitosis.
+Associative Learning 
+The ability of animals to associate one feature with another.
+Asters 
+Microtubules and fibers that radiate out from the centrioles.
+Astrocytes 
+Provide structural and metabolic support for neurons.
+Adenosine Triphosphate 
+Composed of a sugar ribose, nitrogenous base adenine, and a chain of three phosphate groups bonded to it.
+ATP synthase 
+The enzyme that make ATP from ADPand inorganic phosphate.
+Autoimmune Diseases 
+Diseases caused when the immune system loses tolerance for self and turns against certain molecules in the body.
+Autonomic Nervous System 
+The part of the nervous system of vertebrates that controls involuntary actions of the smooth muscles and heart and glands.
+Autopolyploid 
+Having more than two sets of chromosomes from a single species.
+Autosomes 
+Chromosomes that are not directly involved in determining the sex of an individual.
+Auxin 
+Indoleacetic acid (IAA), a natural plant hormone that has a variety of effects, including cell elongation, root formation, secondary growth, and fruit growth.
+Avirulent 
+A term describing a pathogen that can only mildly harm, but not kill, the host plant.
+Axon 
+Long nerve fiber that conducts away from the cell body of the neuron.
+Axon Hillock 
+Cone shaped region of an axon where it joins the cell body.
+UNIT
+B
+Bacilli 
+Rod-shaped bacteria.
+Bacterial Artificial Chromosome
+An artificial version of a bacterial chromosome that can carry inserts of 100, 000 to 500, 000 base pairs.
+Bacteriophage 
+A virus that infects bacteria; also called a phage.
+Bacteriophages 
+A virus that infects bacteria; also called a phage.
+Barr Body 
+A dense body formed from a deactivated X chromosome.
+Basal Metabolic Rate 
+The metabolic rate of a nongrowing, resting, fasting, nonstressed endotherm.
+Basement Membrane 
+Cells at the base of an epithelial layer are attached to this.
+Batesian Mimicry 
+Species mimics the appearance of an unpalatable or harmful.
+B Cell Receptor 
+The antigen receptor on B cells: a Y-Shaped, membrane-bound molecule consisting of two identical heavy chains and two identical light chains linked by disulfide bridges and containing two antigen-binding sites.
+Behavior 
+The way an organism reacts to changes in its internal condition or external environment.
+Behavioral Isolation 
+Incompatible courtship rituals, pheromones, or bird songs.
+Beta Glucose 
+Monomer for cellulose and chitin.
+Big-bang Reproduction 
+Species that have only a single reproductive opportunity, such as agave and salmon.
+Binary Fission 
+A form of asexual reproduction in single-celled organisms by which one cell divides into two cells of the same size.
+Bioenergenetics 
+The study of how organisms manage their energy resources.
+Bioenergetics 
+Flow of energy through an animal. Limits its behavior, growth, reproduction.
+Biogeographic Realms 
+Broad patterns of distribution due to continental drift and barriers such as deserts and mountain ranges.
+Biogeography 
+Geographic distribution of species.
+Biological augmentation 
+Uses organisms to add essential materials to degraded ecosystems.
+Biological Clock 
+An innate mechanism in living organisms that controls the periodicity of many physiological functions.
+Biological Magnification 
+Toxins become more concentrated in successive trophic levels.
+Biological Species Concept 
+Species is a group of populations whose members have the potential to produce fertile offspring.
+Biomanipulation 
+Technique for restoring eutrophic lakes that reduces populations of algae by manipulating higher-level consumers.
+Biomass 
+Total dry mass of all individuals in a population.
+Biome 
+Major types of ecological association that occupy broad geographic regions.
+Bionomial Nomenclature 
+Scientific name.
+Bioremediation 
+Use of living organisms such as prokaryotes, fungi, or plants to detoxify polluted ecosystems.
+Biosphere 
+The sum of all ecosystems.
+Biota 
+Biotic factors.
+Biotechnology 
+The manipulation of living organisms or their components to produce useful products.
+Biotic factors 
+All the plant and animal life of a particular region.
+Blood 
+Connective tissue made of plasma, erythrocytes, leukocytes, and platelets.
+Blue-light Photoreceptors 
+A class of light receptors in plants. Blue light initiates a variety of responses, such as phototropism and slowing of hypocotyl elongation.
+B Lymphocytes
+Lymphocyte that matures in the bone marrow and secretes antibodies.
+Bone 
+Mineralized connective tissue.
+Bottleneck Effect 
+When a population has been dramatically reduced, and the gene pool is no longer reflective of the original population's.
+Bottom-up Model 
+Unidirectional influence from lower to higher trophic levels. (V --> H)
+Brainstem 
+The oldest part and central core of the brain, responsible for automatic survival functions.
+Brown Fat
+Tissue in neck and between shoulders of some mammals that is specialized for rapid heat production.
+UNIT
+C
+Calvin Cycle 
+Carbon fixation process in photosynthesis. Forms sugar and other organic compounds.
+Cancer 
+Any malignant growth or tumor caused by abnormal and uncontrolled cell division.
+Capsid 
+The protein shell that encloses a viral genome. It may be rod-shaped, polyhedral, or more complex in shape.
+Capsule 
+Covers the cell wall in prokaryotes.
+Carbon Fixation 
+The initial incorporation of carbon into organic compounds.
+Cardiac Muscle 
+Muscle that is branched, striated, singe nucleated.
+Carotenoids 
+Accessory pigments that broaden the spectrum of colors that can drive photosynthesis.
+Carpel 
+The ovule-producing reproductive organ of a flower, consisting of the stigma, style, and ovary.
+Carrier Protein 
+A membrane protein, specifically a transport protein, that holds onto molecules and changes their shapes in a way that shuttles them across the membrane.
+Carrying Capacity
+Maximum population size that a particular environment can support.
+Cartilage 
+Made of collagenous fibers in matrix of chondroitin sulfate.
+Catabolic Pathways 
+Metabolic pathways that release energy by breaking down complex molecules into simpler compounds.
+Catabolism 
+Metabolic pathways that break down molecules, releasing energy.
+Catalyst 
+A chemical agent that speeds up a reaction without being consumed by the reaction.
+Cdk 
+Complex of cyclin and kinase.
+cDNA Library 
+A limited gene library using complementary DNA. The library includes only the genes that were transcribed in the cells examined.
+Cell Body 
+Contains most of a neuron's organelles and its nucleus.
+Cell-cell Recognition 
+The function of membrane proteins in which some glycoproteins serve as ID tags that are recognized by membrane proteins of other cells.
+Cell Cycle 
+Series of events that cells go through as they grow and divide.
+Cell Differentiation 
+The process by which a cell becomes specialized for a specific structure or function.
+Cell Division 
+The process in reproduction and growth by which a cell divides to form daughter cells.
+Cell-mediated Immune Response 
+The branch of acquired immunity that involves the activation of cytotoxic T cells, which defend against infected cells.
+Cell Plate 
+A double membrane across the midline of a dividing plant cell, between which the new cell wall forms during cytokinesis.
+Cellular Respiration 
+When oxygen is consumed as a reactant along with the organic fuel.
+Cellulose 
+Carbohydrate component of plant cell walls.
+Cell Wall 
+Strong layer around the cell membrane in plants, algae, and some bacteria.
+Central Nervous System 
+Includes the brain and spinal cord.
+Centriole 
+In animal cells, a cytoplasmic organelle that organizes the mitotic spindle fibers during cell reproductions.
+Centromere 
+The region of the chromosome that holds the two sister chromatids together during mitosis.
+Centrosome 
+A structure in animal cells containing centrioles from which the spindle fibers develop.
+Cerebellum 
+The "little brain" attached to the rear of the brainstem; it helps coordinate voluntary movement and balance.
+Cerebral Cortex 
+Interconnected neural cells that covers the cerebral hemispheres; the body's ultimate control and information-processing center.
+Cerebral Hemispheres 
+The right and left halves of the cerebrum.
+Cerebrum 
+Largest part of the brain; responsible for voluntary muscular activity, vision, speech, taste, hearing, thought, and memory.
+Channel Protein 
+A membrane protein, specifically a transport protein, that has a hydrophilic channel that certain molecules or atomic ions use as a tunnel.
+Character 
+A heritable feature that varies among individuals.
+Character Displacement 
+Tendency of characteristics to be more divergent in sympatric populations than allopatric populations.
+Chemiosmosis 
+Process by which a Hydrogen pump pumps protons into the thylakoid membrane. H+ passively flows through the ATP synthase which leads to the creation of ATP.
+Chemoautotrophs 
+Organisms that use hydrogen sulfide or other chemicals as energy source instead of light.
+Chiasmata 
+X-shaped regions where crossing over occurred.
+Chitin 
+Polysaccharide found in arthropod exoskeletons and fungal cell walls.
+Chlorophyll 
+Green pigment located within the chloroplasts.
+Chlorophyll A
+Only pigment that can participate directly in the light reactions.
+Chloroplasts 
+Organelles that capture the energy from sunlight and convert it into chemical energy in a process called photosynthesis.
+Cholesterol 
+Steroid common in cell membranes, also in many hormones.
+Chondrocytes 
+Cells that secrete cartilage.
+Chorionic Villus Sampling 
+Prenatal diagnostic technique that involves taking a sample of tissue from the chorion.
+Chromatin 
+The complex of DNA and proteins that makes up a eukaryotic chromosome.
+Chromosomes 
+A threadlike, gene-carrying structure found in the nucleus. Consists of one very long DNA molecule and associated proteins.
+Chromosome Theory of Inheritance 
+According to this theory, genes are carried from parents to their offspring on chromosomes.
+Circadian Rhythm 
+A physiological cycle of about 24 hours that is present in all eukaryotic organisms and that persists even in the absence of external cues.
+Citric Acid Cycle 
+Completes the breakdown of glucose by oxidizing a derivative of pyruvate to carbon dioxide.
+Clade 
+A taxonomic grouping that includes only a single ancestor and all of its descendants.
+Cladistics 
+A phylogenetic classification system that uses shared derived characters and ancestry as the sole criterion for grouping taxa.
+Cladogram 
+Diagram that shows patterns of shared characteristics.
+Classical Conditioning 
+An arbitrary stimulus is associated with an award or punishment.
+Cleavage 
+The process of cytokinesis in animal cells, characterized by pinching of the plasma membrane; specifically.
+Cleavage Furrow 
+The first sign of cleavage in an animal cell; a shallow groove in the cell surface near the old metaphase plate.
+Climate 
+Prevailing weather conditions of an area.
+Cline
+A graded change in a trait along a geographic axis.
+Clone 
+An identical genetically individual of the parent
+Cloning 
+Making a genetically identical copy of DNA or of an organism.
+Cloning Vector 
+DNA molecules that can carry foreign DNA into a host cell and replicate there.
+Clumped Dispersion 
+The most common pattern of dispersion; individuals aggregated in patches.
+Cocci 
+Spherical bacteria.
+Codominance 
+When which the phenotypes of both alleles are exhibited in the heterozygote.
+Codons 
+mRNA base triplets.
+Coefficient of Relatedness 
+Probability that if two individuals share common parent or ancestor, a particular gene present in one will be present in other.
+Coenzyme 
+If the cofactor is an organic molecule.
+Coevolution 
+Reciprocal evolutionary adaptations of two interacting species.
+Cofactor 
+Non-protein helpers that may be bound tightly to the enzyme as a permanent resident, or may bind loosely and reversibly along with the substrate.
+Cognition 
+The ability of an animal's nervous system to perceive, store, process, and use information gathered by sensory receptors.
+Cognitive Maps 
+An internal representation of the spatial relationships between objects in an animal's surroundings.
+Cohesion 
+Water molecules sticking to each other.
+Cohort 
+A group of individuals of the same age.
+Coleoptile 
+Covers and protects the shoot as it grows upward.
+Collagenous Fibers 
+Fibers made of collagen.
+Colonies 
+Collections of autonomously replicating cells.
+Columnar Epithelium 
+Cells shaped like bricks standing on end.
+Commensalism 
+Interaction between species that benefits one but neither helps or harms the other. (+/0)
+Communication 
+Signals among animals that include sounds, odors, visual displays, and touches that produce responses.
+Community 
+All species that inhabit an area.
+Comparative Embryology 
+Embryos of vertebrates share many anatomical homologies.
+Competitive Exclusion 
+Strong competition can lead to local elimination of one of the species.
+Competitive Exclusion Principle 
+Two species competing for same limiting resource cannot coexist in one place; one species will have an advantage that will eventually lead to competitive exclusion
+Competitive Inhibitors 
+Reduce the productivity of enzymes by blocking substrates from entering active sites.
+Complementary DNA
+DNA molecule made in vitro using mRNA as a template and the enzyme reverse transcriptase.
+Complement System 
+A group of about 30 blood proteins that may amplify the inflammatory response, enhance phagocytosis, or directly lyse extracellular pathogens.
+Complete Dominance 
+When the phenotypes of the heterozygote and dominant homozygote are indistinguishable.
+Complete Flower 
+A flower that has all four basic floral organs: sepals, petals, stamens, and carpels.
+Concentration Gradient 
+A difference in the concentration of a substance across a distance.
+Conformer 
+An animal that allows its internal condition to vary with certain external changes.
+Conjugation 
+In bacteria, the direct transfer of DNA between two cells that are temporarily joined.
+Connective Tissue 
+Tissue that functions mainly to bind and support other tissues.
+Conservation Biology 
+Integrates ecology, physiology, molecular biology, genetics and evolutionary biology to conserve biological diversity.
+Contractile Vacuoles 
+A membranous sac that helps move excess water out of the cell.
+Control Elements 
+Segments of noncoding DNA in eukaryotic genes that help regulate transcription by binding to certain proteins.
+Cooperativity 
+It amplifies the response of enzymes to substrates.
+Corpus Callosum 
+Nerves that enable communication between the right and left cerebral hemispheres.
+Cotransport 
+The coupling of the "downhill" diffusion of one substance to the "uphill" transport of another against its own concentration gradient.
+Countercurrent Heat Exchanger 
+In ectotherms, a circulatory adaptation that is an arrangement of blood vessels that warm or cool the blood.
+Crenation 
+This happens when a cell shrinks and shrivels; can result in cell death if severe.
+Cristae 
+Infoldings of the inner membrane of a mitochondrion that houses the electon transport chain and the enzyme catalyzing the synthesis of ATP.
+Critical Load 
+The amount of added nutrient that can be absorbed by plants without damaging ecosystem.
+Crossing Over 
+Process in which homologous chromosomes exchange portions of their chromatids during meiosis.
+Cryptic Coloration 
+Camouflage; makes an organism difficult to spot.
+Cubiodal Epithelium 
+Dice-shaped cells.
+Culture 
+A system of information transfer through influential social learning or teaching.
+Cyclic AMP
+A compound formed from ATP that acts as a second messenger.
+Cyclic Photophosphorolation 
+Only Photosystem I works. ATP is made, no oxygen is produced, no water is split, no NADPH is made.
+Cystic Fibrosis 
+A genetic disorder that is present at birth and affects both the respiratory and digestive systems.
+Cytogenetic Maps 
+A chart of a chromosome that locates genes with respect to chromosomal features distinguishable in a microscope.
+Cytokines 
+Chemicals released by the immune system communicate with the brain.
+Cytokinesis 
+Division of the cytoplasm to form two separate daughter cells.
+Cytokinins 
+A class of plant hormones that retard aging and act in concert with auxin to stimulate cell division, influence the pathway of differentiation, and control apical dominance.
+Cytolysis 
+This happens when a cell swells until pressure bursts it, resulting in cell death.
+Cytoplasm 
+The region of the cell between the cell membrane and the nucleus.
+Cytoplasmic Determinants 
+Maternal substances in egg that influence the course of early development.
+Cytoplasmic Streaming 
+The motion of cytoplasm in a cell that results in a coordinated movement of the cell's contents.
+Cytoskeleton 
+Network of protein filaments within some cells that helps the cell maintain its shape and is involved in many forms of cell movement.
+Cytosol 
+The soluble portion of the cytoplasm, which includes molecules and small particles, such as ribosomes, but not the organelles covered with membranes.
+Cytotoxic T Cells 
+T cells that directly attack infecting organisms; these cells attack antigen labeled foreign or host tissue.
+UNIT
+D
+Daily Torpor 
+in small mammals and birds, daily lowering of metabolism that allows them to survive on stored energy
+Day-neutral Plant 
+A plant whose flowering is not affected by photoperiod.
+Decent With Modification 
+Darwin's way of referring to evolution.
+De-etiolation 
+The changes a plant shoot undergoes in response to sunlight; also known informally as greening.
+Dehydration Synthesis 
+Condensation reaction where molecules are connected by loss of a water molecule.
+Deletion 
+A change to a chromosome in which a fragment of the chromosome is removed.
+Demographic Transition 
+Movement from a high birth rate, high death rate to a low birth rate, low death rate.
+Demography 
+Study of vital statistics of a population and how they change over time.
+Denaturation 
+In proteins, a process in which a protein unravels and loses its native conformation, thereby becoming biologically inactive. In DNA, the separation of the two strands of the double helix.
+Dendrites 
+Highly branched extensions that receive signals from other neurons.
+Density Dependent Inhibition 
+The arrest of cell division that occurs when cells grown in a laboratory dish touch one another.
+Density-dependent Regulation 
+When birth or death rates do change with population density.
+Sensity-independent Eegulation 
+When birth or death rates do not change with population density.
+Depolarization 
+The process during the action potential when sodium is rushing into the cell causing the interior to become more positive.
+Determination 
+The point during development at which a cell becomes committed to a particular fate due to cytoplasmic effects or to induction by neighboring cells.
+Detritivores 
+Obtain energy from detritus.
+Detritus 
+Nonliving organic maters such as remains of dead organisms, feces, fallen leaves, dead wood.
+Diacylglycerol 
+A second messenger produced by the cleavage of a certain kind of phospholipid in the plasma membrane.
+Dialysis 
+The diffusion of small solutes through a selectively permeable membrane.
+Differential Gene Expression 
+The expression of different sets of genes by cells with the same genome.
+Diffusion 
+When a substance moves from an area of higher concentration to an area of lower concentration. Due to entropy.
+Digestion 
+To break apart.
+Dihybrids 
+Parents that are heterozygous for two characters.
+Dioecious 
+If staminate and carpellate flowers are on different plants.
+Diploid Cell 
+Has two sets of chromosomes.
+Directional Selection 
+Shift toward a favorable variation.
+Discrete Characteristics 
+Characteristics that are classified on an either-or basis, determined by a single gene locus.
+Dispersal 
+Movement of individuals away from centers of high population density or their area of origin.
+Dispersion 
+Pattern of spacing among individuals.
+Disruptive Selection 
+Shift toward the extremes.
+Disturbance 
+An event, such as storm, fire, flood, drought, overgrazing or human activity, that changes a community and alters resource availability.
+Disulphide Bridges 
+Reinforce tertiary structure.
+DNA ligase 
+A linking enzyme essential for DNA replication; catalyzes the covalent bonding of the 3' end of a new DNA fragment to the 5' end of a growing chain.
+DNA Methylation 
+The addition of methyl groups to bases of DNA after DNA synthesis; may serve as a long-term control of gene expression.
+DNA Polymerase 
+An enzyme that catalyzes the formation of the DNA molecule.
+DNA Sequencing 
+Determining the exact order of the base pairs in a segment of DNA.
+Domains 
+Discrete structural and functional regions of proteins.
+Dominant Allele 
+An allele whose trait always shows up in the organism when the allele is present.
+Dominant Species 
+Species that are the most abundant or have the most biomass.
+Dopamine 
+Important neurotransmitter in the CNS that acts on the sympathetic nervous system.
+Dormancy 
+A condition typified by extremely low metabolic rate and a suspension of growth and development.
+Double Fertilization 
+A mechanism of fertilization in angiosperms, in which two sperm cells unite with two cells in the embryo sac to form the zygote and endosperm.
+Downs Syndrome 
+A congenital disorder caused by having an extra Chromosome 21.
+Duchenne Muscular Dystrophy 
+A human genetic disease caused by a sex-linked recessive allele; characterized by progressive weakening and a loss of muscle tissue.
+Dynamic Stability Hypothesis 
+Long food chains are less stable than short chains.
+UNIT
+E
+Ecological Footprint 
+Land and water area appropriated by each nation as a resource to consume or to absorb the waste it generates.
+Ecological Niche 
+Sum total of a species' use of the biotic and abiotic resources.
+Ecological Succession 
+Gradual recolonization of a disturbed area; species replaced by other species which are replaced by other species.
+Ecology 
+Study of interactions between organisms and the environment.
+Ecosystem 
+Consists of all the organisms living in a community as well as all the abiotic factors with which they interact.
+Ectoparasites 
+Parasites that feed on external surface of host.
+Edocrine Glands 
+Glands that secrete chemicals called hormones directly into the bloodstream.
+Effector Cells 
+Muscle cells or gland cells that carry out the body's response to stimuli.
+Elastic Fibers 
+Fibers made of elastin.
+Electrochemical Gradient 
+The combination of forces that acts on membrane potential.
+Electrogenic Pump 
+A transport protein that generates voltage across a membrane, causing a net separation in charge.
+Electronegativity 
+Attraction of an atom for electrons in a covalent bond.
+Electron Transport Chain 
+Breaks the fall of electrons to oxygen in several energy-releasing steps.
+Electroporation 
+A technique to introduce recombinant DNA into cells by applying a brief electrical pulse to a solution containing the cells. The pulse creates temporary holes in the cells' plasma membrane, through which DNA can enter.
+Elicitors 
+A molecule that induces a broad type of host defense response
+Emigration 
+Movement out of population. Decreases population size.
+Enantiomers 
+Structures that are like a mirror-image.
+Endangered Species 
+Species that is in danger of extinction throughout all or a significant portion of its range.
+Endergonic Reaction 
+Reaction that absorbs free energy from its surroundings.
+Endocrine Signaling 
+Specialized cells release hormone molecules into vessels of the circulatory system, by which they travel to target cells in other parts of the body.
+Endocrine System 
+The system of glands that produce endocrine secretions that help to control bodily metabolic activity.
+Endocytosis 
+Occurs when a cell takes in biological molecules and particulate matter by forming new vesicles from the plasma membrane.
+Endomembrane System 
+A network of membranes inside and around a eukaryotic cell, related either through direct physical contact or by the transfer of membranous vesicles.
+Endoparasites 
+Parasites that live within the body of their host.
+Endorphins 
+Natural analgesics that decrease pain perception.
+Endosperm 
+In angiosperms, a nutrient-rich tissue formed by the union of a sperm with two polar nuclei during double fertilization. Provides nourishment to the developing embryo in angiosperm seeds.
+Endospore 
+A thick-walled protective spore that forms inside a bacterial cell and resists harsh conditions.
+Endosymbiotic Theory 
+Ancestors of mitochondria and plastids was prokaryotes thatcame to live in a host cell.
+Endothermic 
+Animals that are warmed mostly by heat generated by metabolism.
+Energy Coupling 
+The use of an exergonic process to drive an endergonic one.
+Energy Hypothesis 
+Length of a food chain is limited by the inefficiency of energy transfer.
+Enhancer 
+A DNA segment containing multiple control elements that can recognize certain transcription factors that stimulate the transcription of nearby genes.
+Enteric Division 
+One of three divisions of the autonomic nervous system; consists of networks of neurons in the digestive tract, pancreas, and gallbladder.
+Entropy 
+A measure of disorder or randomness.
+Enzymatic Activity 
+A protein built into the membrane with active site exposed.
+Enzyme 
+A catalytic protein.
+Enzyme-Substrate Complex 
+When an enzyme binds to its substrate, it forms:
+Epigenetic Inheritance 
+Inheritance of traits transmitted by mechanisms not directly involving the nucleotide sequence.
+Epinephrine 
+Neurotransmitter secreted by the adrenal medulla in response to stress. Also known as adrenaline.
+Episome 
+A genetic element that can exist either as a plasmid or as part of the bacterial chromosome.
+Epithelial Tissue 
+Tissue that covers outside of the body and lines organs and cavities.
+Epitope 
+Small, accessible portion of an antigen that can be recognized.
+Equatorial-polar Gradients 
+Species diversity highest at equator, decreases toward poles.
+Erwin Chargaff 
+Discovered that DNA composition varies, but the amount of adenine is always the same as thymine and the amount of cytosine is always the same as guanine.
+Estivation 
+Summer torpor. Enables animals to survive long periods of high temperatures and scarce water supplies.
+Ethology 
+The scientific study of how animals behave, particularly in natural environments.
+Ethylene 
+The only gaseous plant hormone. Among its many effects are response to mechanical stress, programmed cell death, leaf abscission, and fruit ripening.
+Etiolation 
+Plant morphological adaptations for growing in darkness.
+Eukaryotic Cells 
+Contain a nucleus and other organelles that are bound by membranes.
+Eutrophication 
+Sewage and fertilizer runoff adds nutrients to lakes; phytoplankton decreases and cyanobacteria increases.
+Evapotranspiration 
+Evaporation of water from soil plus transpiration from plants. Correlates with species richness.
+Evolutionary Adaptation 
+An accumulation of inherited characteristics that enhance organisms' ability to survive and reproduce in specific environments.
+Exergonic Reaction 
+Reaction that proceeds with a net release of free energy.
+Exocytosis 
+Occurs when a cell secretes certain biological molecules by the fusion of vesicles with the plasma membrane.
+Exons 
+Coding segments of eukaryotic DNA.
+Exothermic 
+Animals that gain heat mostly from external sources.
+Exponential Growth 
+Population increase under ideal conditions, when r > 0. Forms a J-shaped curve.
+Expression Vector 
+A cloning vector that contains the requisite prokaryotic promoter just upstream of a restriction site where a eukaryotic gene can be inserted.
+Extremophiles 
+Archaea that live in extreme environments.
+UNIT
+F
+F1 Generation 
+The hybrid offspring of true-breeding parents.
+F2 Generation 
+After the self-pollenization of the F1 generation, this is produced.
+Facilitated Diffusion 
+Passive diffusion that is aided by transport proteins, but that does not require cellular energy.
+Facilitators 
+Foundation species have positive effects on other species.
+Facultative Anaerobes 
+Can make enough ATP to survive using using fermentation or respiration.
+Fate Maps 
+A labor-intensive study to produce useful territorial diargams of embryonic development.
+Feedback Inhibition 
+A metabolic pathway is switched off by the inhibitory binding of its end product to an enzyme that acts early in the pathway.
+Fermentation 
+A partial degradation of sugars that occur without the use of oxygen.
+Fertilization 
+Union of gametes.
+F Factor 
+A piece of DNA that confers the ability form a sex pili.
+Fibroblasts 
+In connective tissue, cells that secrete the proteins of the fibers.
+Fibrous Connective Tissue 
+Dense tissue, large number of collagen fibers organized into parallel bundles. Includes ligaments and tendons.
+First Law of Thermodynamics 
+Energy can be transferred and transformed, but it cannot be created or destroyed.
+Fitness 
+Individuals whose inherited traits confer an advantage have a better chance of surviving in a given environment and will leave more offspring.
+Fixed Action Patterns 
+A sequence of unlearned behavioral acts that is unchangeable and usually carried to completion.
+Flaccid 
+This happens when water moves, but the amount within the cell is constant; no pressure builds.
+Florigen 
+A flowering signal, not yet chemically identified, that may be a hormone or may be a change in relative concentrations of multiple hormones.
+Fluid Mosaic Model 
+Structural model of the plasma membrane where molecules are free to move sideways within a lipid bilayer.
+Food Web 
+Linked food chains.
+Foraging 
+Behavior associated with recognizing, searching for, capturing, and consuming food.
+Forebrain 
+The largest and most complicated region of the brain, including the thalamus, hypothalamus, limbic system, and cerebrum.
+Foundation Species 
+Cause physical changes in environment that affect community structure.
+Founder Effect 
+When a small number of individuals colonize a new area; the new gene pool is not reflective of original population.
+F Plasmid 
+The plasmid form of the F factor.
+Frameshift Mutation 
+Mutation occurring when the number of nucleotides inserted or deleted is not a multiple of three, resulting in improper grouping of nucleotides into codons.
+Frederick Griffith 
+Discovered transformation during an experiment that involved injecting mice with smooth S cells, rough R cells, heat-killed S cells, and heat-killed S cells with living R cells.
+Fredrick Sanger 
+Determined amino acid sequence of proteins.
+Free Energy 
+Measures the portion of a system's energy that can perform work when temperature and pressure are uniform throughout the system, as in a living cell.
+Fruit 
+A mature ovary of a flower that protects dormant seeds and often aids in their dispersal.
+Fruit Ripening 
+A burst of ethylene production in a fruit triggers the ripening process.
+Fundamental Niche 
+The niche species could potentially occupy.
+UNIT
+G
+G1 Phase 
+The first gap, or growth phase, of the cell cycle, consisting of the portion of interphase before DNA synthesis begins.
+G2 Phase 
+The second growth phase of the cell cycle, consisting of the portion of interphase after DNA synthesis occurs.
+GABA 
+An inhibitory neurotransmitter in the brain.
+Gametes 
+A haploid cell such as an egg or sperm that unite during sexual reproduction to produce a diploid zygote.
+Game Theory 
+Evaluates alternate strategies when outcome depends not only on each individual's strategy but also that of others.
+Gametic Isolation 
+When sperm can't fertilize the eggs.
+Gametophyte 
+The stage in the life cycle of a plant in which the plant produces gametes, or sex cells.
+Ganglion 
+A cluster of nerve cell bodies, often of similar function, located in the PNS.
+Gated Channel 
+A protein channel in a cell membrane that opens or closes in response to a particular stimulus.
+Gel Electrophoresis 
+The separation of nucleic acids or proteins, on the basis of their size and electrical charge, by measuring their rate of movement through an electrical field in a gel.
+Gene Cloning 
+The production of multiple copies of a gene.
+Gene Expression 
+Conversion of the information encoded in a gene first into messenger RNA and then to a protein.
+Gene Families 
+Groups of related genes in an organism's genome.
+Gene Flow 
+When a population gains or loses alleles., movement of alleles into or out of a population due to the migration of individuals to or from the population.
+Gene-for-gene Recognition 
+A widespread form of plant disease resistance involving recognition of pathogen-derived molecules by the protein products of specific plant disease resistance genes.
+Gene Pool 
+All the genes in a given population at a given time.
+Genes 
+Units of heredity made up of DNA.
+Genetic Annealing 
+Horizontal gene transfer between different bacteria and archae.
+Genetic Drift 
+Change in allele frequencies due to chance.
+Genetic Engineering 
+The direct manipulation of genes for practical purposes.
+Genetic Map 
+An ordered list of the genetic loci along a particular chromosome.
+Genetic Recombination 
+The regrouping of genes in an offspring that results in a genetic makeup that is different from that of the parents.
+Genetics 
+Scientific study of heredity and variation.
+Genetic Variation 
+Heritable variations in a population.
+Genome 
+The ordering of genes in a haploid set of chromosomes of a particular organism.
+Genomic Equivalence 
+All cells in an organism contain the same complement of genes. These are the same set of genes that are established in the fertilized egg.
+Genomic Imprinting 
+Variation in phenotype depending on whether an allele is inherited from the male or female parent.
+Genomic Library 
+A set of thousands of DNA segments from a genome, each carried by a plasmid, phage, or other cloning vector.
+Genotype 
+An organism's genetic makeup.
+Genus 
+First part of scientific name.
+Geographic Variation 
+Difference in variation between population subgroups in different areas.
+Geometric Isomer 
+Differ in arrangement around a double bond.
+Gibberellins 
+A class of related plant hormones that stimulate growth in the stem and leaves, trigger the germination of seeds and breaking of bud dormancy, and stimulate fruit development.
+Glandualar Epithelia 
+Tissue that absorbs or secretes chemical solutions.
+Glial Cells 
+Cells in the nervous system that support, nourish, and protect neurons.
+Glucagon 
+The antagonist of insulin that helps increase blood sugar. It stimulates the liver to break down glycogen into glucose.
+Glutamate 
+The most common neurotransmitter in the brain. Excitatory.
+Glycogen 
+Extremely branched polymer of glucose.
+Glycolipids 
+Membrane carbohydrates that are covalently bonded to lipids.
+Glycolosis 
+Breaking glucose into two molecules of a compound called pyruvate.
+Glycoproteins 
+Membrane carbohydrates that are covalently bonded to proteins.
+Golgi Apparatus 
+Stack of membranes in the cell that modifies, sorts, and packages proteins from the endoplasmic reticulum.
+G-protein-linked Receptor 
+A plasma membrane receptor that works with the help of a G-protein.
+Gradualism 
+A model of evolution in which gradual change over a long period of time leads to biological diversity.
+Graft Versus Host Reaction 
+When lymphocytes in donated bone marrow react against the recipient.
+Gram-negative Bacteria 
+Bacteria that have complex cell walls with less peptidoglycan but with lipopolysaccharides. Very toxic and hard to treat.
+Gram-positive Bacteria 
+Bacteria that have simple cell walls with much peptidoglycan.
+Gram Stain 
+Used to classify prokaryotes based on cell wall composition. Important for antibiotics; some antibiotics work on one but not the other.
+Granum 
+Stack of thylakoids.
+Greenhouse Effect 
+Carbon dioxide and water vapor in atmosphere trap infrared radiation, re-reflecting it back toward earth.
+Green World Hypothesis 
+Terrestrial herbivores consume relatively little plant biomass because they are held in check by predators, parasites and disease.
+Grey Matter 
+The portions of the central nervous system that are abundant in cell bodies of neurons rather than axons. Unmyelinated.
+Gross Primary Production 
+Amount of light energy that is converted to chemical energy by photosynthesis.
+Growth Factors 
+Regulatory proteins that ensure that the events of cell division occur in the proper sequence and at the correct rate.
+Growth Factors 
+Factors that stimulate the cell to divide.
+UNIT
+H
+Habitat Isolation 
+When two species encounter each other only rarely.
+Habituation 
+A loss of responsiveness to stimuli that convey little or no information.
+Hamilton's Rule 
+When C < r x B, where C = cost to the altruistic party; r = genetic relatedness; B = fitness benefit to recipient of altuism
+Haplo Diploid System 
+A sex determination system in most species of bees and ants in which there are no sex chromosomes. Females develop from fertilized eggs (diploid) and males develop from unfertilized eggs (haploid).
+Haploid 
+One set of chromosomes.
+Hardy-Weinberg Theorem 
+Helps measure changes in allele frequencies over time. Provides an "ideal" population to use as a basis of comparison.
+Heat-shock Proteins 
+Proteins that help maintain integrity of other proteins that would normally be denatured in extreme heat.
+Helicase 
+An enzyme that untwists the double helix at the replication forks, separating the two parental strands and making them available as template strands.
+Helper T Cells 
+Activate macrophages, B cells and T cells.
+Hemophilia 
+An X-linked recessive disorder in which blood fails to clot properly, leading to excessive bleeding if injured.
+Heredity 
+Transmission of traits from one generation to the next.
+Hersey-Chase Experiment 
+Devised an experiment that showed that only the DNA of T2 phages enters a bacterial cell during infection.
+Heterochrony 
+Change in the rate or timing of a developmental event; an organism's shape depends on relative growth rate of body parts.
+Heterozygous Advantage 
+Maintains recessive alleles in a population,
+Hibernation 
+Long-term torpor that is an adaptation to winter cold and food scarcity.
+Hindbrain 
+The posterior portion of the brain including cerebellum and brainstem.
+Histamine 
+Chemical stored in mast cells that triggers dilation and increased permeability of capillaries.
+Histone Acetylation 
+The attachment of acetyl groups to certain amino acids of histone proteins.
+HIV 
+The infectious agent that causes AIDS. HIV is a retrovirus.
+Homeostasis 
+"Steady state" or "constant internal milieu".
+Homeotic Genes 
+Genes that determine basic features of where a body part is.
+Homologous Chromosomes 
+Pair of chromosomes that are the same size, same appearance and same genes.
+Homologous Structures 
+Same structure, different function. Comes from common ancestor.
+Homology 
+Similarity resulting from common ancestry.
+Homoplasies 
+Analogous structures that have evolved independently.
+Homozygous 
+An organism having a pair of identical alleles for a character, either dominant or recessive.
+Hormones 
+Circulating chemical signals that are formed in specialized cells, travels in body fluids, and act on specific target cells.
+Host Range 
+The limited range of host cells that each type of virus can infect and parasitize.
+Hox Genes 
+Class of homeotic genes. Changes in these genes can have a profound impact on morphology.
+Human Disturbance 
+Reduces species diversity in all communities.
+Human Genome Project 
+An international collaborative effort to map and sequence the DNA of the entire human genome.
+Humoral Immune Response 
+The branch of acquired immunity that involves the activation of B cells and that leads to the production of antibodies, which defend against bacteria and viruses in body fluids.
+Huntington's Disease 
+Genetic disorder that causes progressive deterioration of brain cells. caused by a dominant allele. symptoms do not appear until about the age of 30.
+Hybrid Breakdown 
+Hybrid is fertile, but when they breed the next generation is sterile.
+Hybridization 
+The crossing of two true-breeding parents.
+Hydrolysis 
+Reaction where water split into two hydrogens and one oxygen; this breaks a polymer.
+Hypersensitive Response 
+A plant's localized defense response to a pathogen
+Hypertonic 
+Describes a solution that has a greater concentration of total solute.
+Hypocotyl 
+The part of a plant embryo directly below the cotyledons, forming a connection with the radicle.
+Hypotonic 
+Describes a solution that has a lesser concentration of total solute.
+UNIT
+I
+Immigration 
+New individuals moving into population. Increases population size.
+Immunization 
+The deliberate exposure of a pathogen to produce memory cells.
+Immunoglobulins 
+Secreted antibodies.
+Imprinting 
+Includes both learning and innate components, generally irreversible.
+-in 
+Suffix of a protein.
+Inclusive Fitness 
+The total effect an individual has on proliferating its genes by producing its own offspring and by providing aid that enables other close relatives to increase the production of their offspring.
+Incomplete Dominance 
+Creates a blended phenotype; one allele is not completely dominant over the other.
+Incomplete Flower 
+A flower in which one or more of the four basic floral organs such as sepals, petals, stamens, or carpels are either absent or nonfunctional.
+Independent Assortment 
+The random distribution of the pairs of genes on different chromosomes to the gametes.
+Induced Fit 
+Brings chemical groups of the active site into positions that enhance their ability to catalyze the chemical reaction.
+Inducer 
+A specific small molecule that inactivates the repressor in an operon.
+Induction 
+The process by which neighboring cells can influence the determination of a cell.
+Infant Mortality 
+Number of infant deaths per thousand live births.
+Inflammtory Response 
+Innate response with the purpose of containing a site of damage, localizing the response, eliminating the invader and restore tissue function.
+Inflorescence 
+A group of flowers tightly clustered together.
+Innate Behavior 
+A behavior that is developmentally fixed.
+Innate Immunity 
+Immunity that is present before exposure and effective from birth. Responds to a broad range of pathogens.
+Inositol Triphosphate 
+Produced by cleavage of a certain kind of phospholipid in the plasma membrane.
+Insertion Sequence 
+The simplest kind of transposable element, consisting of inverted repeats of DNA flanking a gene for transposase, the enzyme that catalyzes transposition.
+Insulin 
+Hormone produced by the pancreas that helps to decrease blood sugar.
+Integral Proteins 
+Integral proteins that span the membrane.
+Intercellular Joining 
+The function of membrane proteins in which membrane proteins of adjacent cells hook together, as in gap junctions or tight junctions.
+Interferon 
+Protein produced by cells in response to being infected by a virus; helps other cells resist the virus.
+Intermediate Disturbance 
+Moderate levels of disturbance can create conditions that foster greater species diversity.
+Interphase 
+Cell grows, performs its normal functions, and prepares for division; consists of G1, S, and G2 phases.
+Interspecific Competition 
+Species compete for a limiting resource. (-/-)
+Interstitial Fluid 
+Watery, internal environment of vertebrates.
+Introns 
+Noncoding segments of nucleic acid that lie between coding sequences.
+Invasive Species 
+Species generally introduced by humans, that take hold outside of their native range.
+Inversion 
+A type of mutation in which the order of the genes in a section of a chromosome is reversed.
+Island Equilibrium Model 
+Islands great for study due to isolation and limited size; can study species diversity and extinction rates.
+Isomers 
+Same atoms but different arrangement.
+Isotonic 
+Describes solutions that have an equal concentration of total solutes.
+Iteroparity 
+Repeated reproduction.
+UNIT
+J
+Jasmonic Acid 
+An important molecule in plant defense against herbivores.
+UNIT
+K
+Karyotype 
+Photograph of chromosomes grouped in order and in pairs.
+Keystone Species 
+Not necessarily abundant, but exert a strong control on community structure due to a pivotal ecological role.
+Kinesis 
+A simple change in activity or turning rate in response to a stimuli.
+Kinetic Energy 
+Energy associated with relative motion of objects.
+Kinetochore 
+A specialized region on the centromere that links each sister chromatid to the mitotic spindle.
+Kinetochore Microtubules 
+Connects the centrosome with the kinetochore in the centromere region of the chromosome.
+Kin Selection 
+Natural selection that favors altruistic behaviors by enhancing reproductive success of relatives.
+K - Selected Species 
+Life history traits sensitive to population density. Small number of large offspring, extensive parental care, repeated reproduction.
+UNIT
+L
+Lactic Acid Fermetation 
+When pyruvate is reduced directly by NADH to form lactic as am end product, with no release of carbon dioxide.
+Lagging Strand 
+A discontinuously synthesized DNA strand that elongates by means of Okazaki fragments, each synthesized in a 5' to 3' direction away from the replication fork.
+The Law of Segregation 
+Two alleles separate during gamete formation and end up in different gametes because they are on on homologous chromosomes.
+Leading Strand 
+The new continuous complementary DNA strand synthesized along the template strand in the mandatory 5' to 3' direction.
+Leaf 
+The major sites of photosynthesis in most plants.
+Leaf Abscission 
+Aging and dropping of leaves controlled by auxin and ethylene.
+Learning 
+The modification of behavior based on specific experiences.
+Life Cycle 
+All of the events in the growth and development of an organism until the organism reaches sexual maturity.
+Life Expectancy at Birth 
+Predicted average length of life at birth.
+Life History 
+Traits that affect an organism's schedule of reproduction and survival.
+Life Tables 
+Age-specific summaries of survival patterns of a population.
+Ligaments 
+Join bones to bones at joints.
+Ligand 
+Any molecule that bonds specifically to a receptor site of another molecule.
+Ligand-gated Ion Channel 
+Type of membrane receptor that has a region that can act as a "gate" when the receptor changes shape.
+Light Limitation 
+Depth to which light penetrates limits primary production.
+Light Reaction 
+Part of photosynthesis that involves light. ATP and NADPH are produced. Takes place on the thylakoid membrane.
+Limiting Nutrient 
+Greater limiting factor than light in oceans and lakes.
+Linkage Map 
+A genetic map based on recombination frequencies.
+Linkage Map 
+A genetic map based on the frequencies of recombination between markers during crossing over of homologous chromosomes.
+Linked Genes 
+Genes located on the same chromosome that tend to be inherited together in genetic crosses.
+Liposomes 
+Membrane-bound droplets that form when lipids are added to water.
+Local Regulators 
+These regulators influence cells in the vicinity of them.
+Locus 
+The specific site of a particular gene on its chromosome.
+Logistic Growth 
+When limiting factors restrict size of population to the carrying capacity of the environment. Forms an S-shaped curve.
+Long-day Plant 
+A plant that flowers only when the light period is longer than a critical length. Usually spring or early summer.
+Loose Connective Tissue 
+Tissue that binds epithelia to underlying tissues and holds organs in place. Contains collagenous, elastic, and recticular fibers.
+Lymphocytes 
+White blood cells.
+Lyse 
+Cell bursting.
+Lysogenic Cycle 
+A phage replication cycle in which the viral genome becomes incorporated into the bacterial host chromosome as a prophage and does not kill the host.
+Lysosome 
+A cell organelle that contains digestive enzymes.
+Lytic Cycle 
+A type of viral (phage) replication cycle resulting in the release of new phages by lysis (and death) of the host cell.
+UNIT
+M
+Macroclimate 
+Patterns on the global, regional and local level.
+Macroevolution 
+Evolutionary change above the species level.
+Macrophages 
+Amoeboid cells that roam connective tissue and engulf foreign particles and debris of dead cells.
+Major Histocompatibility Complex 
+Binds to a fragment of an antigen within a cell and presents it on the surface of the membrane.
+Map Units 
+A measurement of the distance between genes; one map unit is equivalent to a 1 percent recombination frequency.
+Mark-recapture Method 
+A sampling technique used to estimate wildlife populations.
+Mate Choice Copying 
+Individuals in a population copy mate choice of others.
+Maximum Likelihood 
+A principle that states that when considering multiple phylogenetic hypotheses, one should take into account the one that reflects the most likely sequence of evolutionary events, given certain rules about how DNA changes over time.
+Maximum Parsimony 
+"Occam's Razor." A principle that states that when considering multiple explanations for an observation, one should first investigate the simplest explanation that is consistent with the facts.
+McCarty, Avery, and MacLeod 
+Confirmed that the transforming agent in Griffith's experiment was DNA.
+Mechanical Isolation 
+Morphological differences prevent fertilization.
+Medulla Oblongata 
+Contains centers that control several visceral functions, including breathing, heart and blood vessel activity, swallowing, vomiting, and digestion.
+Membrane Potential 
+The voltage across a cell's plasma membrane.
+Memory Cells 
+General term for lymphocytes that are responsible for immunological memory and protective immunity.
+Meselson and Stahl 
+Determined that DNA replication is semiconservative.
+Mesenteries 
+Sheets of connective tissue in moist or fluid-filled body cavities.
+Mesophyll 
+Spongy tissue in the interior of the leaf where most chloroplasts are found.
+mRNA
+Carries genetic message from the DNA to he protein-synthesizing machinery of the cell.
+Metabolic Pathway 
+Begins with a specific molecule, which is then altered in a series of defined steps, resulting in a certain product.
+Metabolic Rate 
+Amount of energy an animal uses in a unit of time; the sum of all the energy-requiring biochemical reactions.
+Metaphase Plate 
+Plane midway between the two poles of the cell where chromosomes line up during metaphase.
+Metapopulation 
+When many populations are linked.
+Methanogens 
+Archaea that release methane, a greenhouse gas.
+Microclimate 
+Very fine patterns of climate influenced by features of the environment such as shade ares and wind patterns.
+Microevolution 
+Change in genetic makeup of a population from generation to generation.
+Micro-RNA 
+Small single stranded RNA molecules that bind to mRNA and can degrade mRNA or block its translation.
+Midbrain 
+Region between the hindbrain and the forebrain; it is important for hearing and sight.
+Migration 
+Relatively long-distance movement of individuals, usually on a seasonal basis.
+Miller and Urey Experiment 
+Experiment that found that organic molecules can form in a strongly reducing atmosphere.
+Missense Mutations 
+Most common type of mutation, a base pair mutation in which the new codon makes sense in that it still codes for an amino acid.
+Mitochondria 
+The organelles in which nutrients are converted to energy.
+Mitosis 
+Cell division in which the nucleus divides into nuclei containing the same number of chromosomes.
+Mitotic Spindle 
+An assemblage of microtubules and associated proteins that is involved in the movements of chromosomes during mitosis.
+Monoecious 
+If staminate and carpellate flowers are on the same plant.
+Monogamous 
+One male mating with one female.
+Monohybrids 
+Parents that are heterozygous for one character.
+Monophyletic Group 
+A taxonomic grouping that includes an ancestral species and all of its descendants.
+Monosomic 
+A chromosomal condition in which a particular cell has only one copy of a chromosome, instead of the normal two.
+Morphogenesis 
+The process by which an organism takes shape and the differentiated cells occupy their appropriate locations.
+Motor Neurons 
+Neurons that carry outgoing information from the central nervous system to the muscles and glands.
+MPF 
+A cyclin-Cdk complex that causes the cell to move from interphase into mitosis.
+M Phase 
+Mitosis and cytokinesis.
+MRSA 
+Methicillin-resistant Staphylococcus aureus.
+Mucous Membrane 
+Membrane that secretes mucus that lubricates the surface of organs and keeps them moist.
+Mullerian Mimicry 
+Two or more unpalatable species resemble each other.
+Multiple Fruit 
+A fruit derived from an entire inflorescence.
+Multiplication Rule 
+To determine the probability, we multiply the probability of one event by the probability of another.
+Muscle Tissue 
+Tissue made of cells capable of contracting.
+Mutagens 
+Physical and chemical agents that interact with DNA to cause mutations
+Mutations 
+Random errors in gene replication that lead to a change in the sequence of nucleotides. The source of all genetic diversity.
+Mutualism 
+Interspecific interaction that benefits both species. (+/+)
+Myelin Sheath 
+A layer of electrical insulation that surrounds the axon.
+UNIT
+N
+Natural Killer Cells 
+These cells kill cancer cells and cells infected with viruses. They bind to their targets and deliver a lethal burst of chemicals to produce holes in the target cell's membrane leading to its destruction.
+Natural Selection 
+A population can change over time if individuals with more fit traits leave more offspring than less fit individuals.
+Negative Feedback 
+A type of regulation that responds to a change in conditions by initiating responses that will counteract the change. Maintains a steady state.
+Nervous Tissue 
+Tissue that senses stimuli and transmits signals.
+Net Primary Production 
+Energy used by primary producers for respiration.
+Neuron 
+Structural and functional unit of nervous system.
+Neurosecretory Cells 
+Neurons that secrete neurohormone rather than neurotransmitter.
+Neurotransmitters 
+Chemical messengers that cross the synaptic gaps between neurons.
+Neutrophils 
+Most abundant white blood cell., The most abundant type of white blood cell. Phagocytic and tend to self-destruct as they destroy foreign invaders, limiting their life span to a few days.
+Niche 
+Sum total of a species' use of the biotic and abiotic resources; an organism's "role".
+Nitric Pxide 
+Local regulator that regulates blood oxygen levels, A gas produced by many types of cells that functions as a local regulator and as a neurotransmitter.
+Nodes of Ranvier 
+Gaps in the myelin sheath to which voltage-gated sodium channels are confined.
+Noncompetitive Inhibitors 
+Impede enzymatic reactions by binding to another part of the enzyme (other than the active site).
+Noncyclic Photophosphorolation 
+Photosystem II performs photolysis to provide electrons for the electron transport chain that drives a chemiosmotic gradient that produces ATP.
+Nondisjunction 
+Error in meiosis in which homologous chromosomes fail to separate.
+Nonequilibrium Model 
+Communities are constantly changing after being buffeted by disturbances.
+Nonpolar 
+No partial charges. Do not mix with water.
+Nonsense Mutations 
+A mutation that changes an amino acid codon to one of three stop codons, resulting in a shorter and usually nonfunctional protein.
+Nonshivering Thermogenesis 
+When hormones cause mitochondria to produce heat instead of ATP in some mammals.
+Nonsister Chromatids 
+Different chromatids (maternal and paternal) of the same chromosome.
+Norepinephrine 
+A precursor of epinephrine that is secreted by the adrenal medulla and also released at synapses.
+Nuclear Envelope 
+Double membrane perforated with pores that control the flow of materials in and out of the nucleus.
+Nuclear Lamina 
+A netlike array of protein filaments lining the inner surface of the nuclear envelope; it helps maintain the shape of the nucleus.
+Nuclear Transplantation 
+A technique in which the nucleus of one cell is placed into another cell that already has a nucleus or in which the nucleus has been previously destroyed.
+Nuclease 
+A DNA cutting enzyme that excises damaged DNA.
+Nucleic Acid Hybridization 
+Base pairing between a gene and a complementary sequence on another nucleic acid molecule.
+Nucleic Acid Probe 
+Radioactively labeled nucleic acid molecule used to tag a particular DNA sequence.
+Nucleoid 
+A dense region of DNA in a prokaryotic cell.
+Nucleolus 
+Small, dense region within most nuclei in which the assembly of proteins begins.
+UNIT
+O
+Okazaki Fragments 
+Small fragments of DNA produced on the lagging strand during DNA replication, joined later by DNA ligase to form a complete strand.
+Oligodendrocytes 
+Type of glial cell in the CNS that wrap axons in a myelin sheath.
+Oligosaccharins 
+A type of elicitor that is derived from cellulose fragments released by cell wall damage
+One Gene-one Polypeptide Hypothesis 
+The premise that a gene is a segment of DNA that codes for one polypeptide.
+Operant Conditioning 
+Learning based on the consequences of responding.
+Operator 
+Region of DNA that controls RNA polymerase's access to a set of genes with related functions.
+Operon 
+A unit of genetic function common in bacteria and phages, consisting of coordinately regulated clusters of genes with related functions.
+Optimal Foraging Theory 
+Views foraging behavior as a compromise between benefits of nutrition and costs of obtaining food.
+Organelles 
+Structures specialized to perform distinct processes within a cell.
+Organs 
+Tissues are organized into:, group of tissues that work together to perform closely related functions.
+Origins of Replication 
+Site where the replication of a DNA molecule begins, consisting of a specific sequence of nucleotides.
+Orthologous Genes 
+Homologous genes passed in a straight line from one generation to the next.
+-ose 
+Suffix of a sugar.
+Osmoregulation 
+The control of water balance.
+Osmosis 
+The diffusion of water through a selectively permeable membrane.
+Osteoblasts 
+Bone-forming cells.
+Outgroups 
+Species or group of species closely related to the ingroup.
+Ovary 
+In flowers, the portion of a carpel in which the egg-containing ovules develop.
+Ovule 
+A structure that develops within the ovary of a seed plant and contains the female gametophyte.
+Oxidation 
+Loss of electrons.
+Oxidative Phosphorylation 
+When energy is released at each step of the chain is stored in a form the mitochondrion can use to make ATP.
+Oxidizing Agent 
+Accepts electrons and becomes reduced.
+Ozone Layer 
+Protective layer in atmosphere that shields earth from UV radiation.
+UNIT
+P
+p680 
+Reaction center chlorophyll in the photosystem II.
+p700 
+Reaction center cholophyll in the photosystem I.
+Paracrine Signaling 
+Signal released from a cell has an effect on neighboring cells.
+Paralogous Genes 
+Homologous genes that are found in the same genome as a result of gene duplication.
+Paraphyletic Group 
+A monophyletic group in which some descendants of the common ancestor have been removed.
+Parasitoidism 
+Insects that lay eggs on or in living host; larvae feed on body of host, eventually killing it. (+/-)
+Parasympathetic Division 
+A branch of the autonomic nervous system that maintains normal body functions; it calms the body ever conserves energy.
+Parental Types 
+Offspring with a phenotype that matches one of the parental phenotypes.
+Passive Immunity 
+Immunity conferred by transferring antibodies from an individual who is immune to a pathogen to another individual.
+Passive Transport 
+Transport of a substance across a cell membrane by diffusion. No cell energy required.
+Pattern Formation 
+The development of a spatial organization of tissues and organs.
+Pedigree 
+A diagram that shows the occurrence of a genetic trait in several generations of a family.
+Peptide Bond 
+Bonds that connect amino acids.
+Peptidoglycan 
+Cell wall of prokaryotes, but NOT ARCHAEA. Made of a sugar polymer and polypeptide.
+Per Capita Death Rate 
+Expected number of deaths in a population in a specified period of time.
+Per Capita Offspring 
+Average number of offspring produced per individual during a specified period of time.
+Peripheral Nervous System 
+The sensory and motor neurons that connect the CNS to the rest of the body.
+Peripheral Proteins 
+The proteins of a membrane that are not embedded in the lipid bilayer; they are appendages loosely bound to the surface of the membrane.
+Peroxisome 
+A microbody containing enzymes that transfer hydrogen from various substrates to oxygen, producing and then degrading hydrogen peroxide.
+Petal 
+A modified leaf of a flowering plant; petals are the often colorful parts of a flower that advertise it to insects and other pollinators.
+P Generation 
+The name for the true-breeding parents.
+Phagocytosis 
+Process in which extensions of cytoplasm surround and engulf large particles and take them into the cell.
+Phagocytosis 
+Process in which extensions of cytoplasm surround and engulf large particles and take them into the cell.
+Phenotype 
+An organism's traits.
+Phosphodiester Bonds 
+Bonds between phosphate group and pentose sugar in nucleic acids.
+Phosphorylation 
+The metabolic process of introducing a phosphate group into an organic molecule.
+Photoautotrophs 
+Organisms that use light as a source of energy to synthesize organic substances.
+Photolysis 
+In the thylakoid membranes of a chloroplast during light-dependant reactions, two molecules of water are split to form oxygen, hydrogen ions, and electrons.
+Photomorphogenesis 
+Effects of light on plant morphology.
+Photoperiodism 
+A physiological response to photoperiod, the relative lengths of night and day. An example of photoperiodism is flowering.
+Photosystem 
+A cluster of pigments embedded into a thylakoid membrane.
+Phototropism 
+Growth of a plant shoot toward or away from light.
+Phylogenetic Trees 
+Branching diagrams that depict hypotheses about evolutionary relationships.
+Phylogeny 
+Evolutionary history of a species or group of species.
+Phylograms 
+Diagram in which the length of a branch reflects number of changes in a DNA sequence.
+Physical Map 
+A genetic map in which the actual physical distances between genes or other genetic markers are expressed, usually as the number of base pairs along the DNA.
+Physiology 
+Study of the functions an organism performs.
+Phytochromes 
+A class of light receptors in plants. Mostly absorbing red light, these photoreceptors regulate many plant responses, including seed germination and shade avoidance.
+Pigments 
+Molecules that absorb, reflect, or transmit light.
+Pilli 
+Hollow tubes used to move cells or exchange DNA between bacteria by conjunction.
+Pinocytosis 
+A type of endocytosis in which the cell "gulps" droplets of fluid into tiny vesicles.
+Pioneer Species 
+The first species that colonize new area, such as lichen and mosses.
+Pistil 
+A single carpel or a group of fused carpels in a flower.
+Plasma Membrane 
+The membrane at the boundary of every cell that acts as a selective barrier, thereby regulating the cell's chemical composition.
+Plasmid 
+A small ring of DNA that carries accessory genes separate from those of a bacterial chromosome; also found in some eukaryotes, such as yeast.
+Plasmids 
+Small rings of DNA found naturally in some bacterial cells in addition to the main bacterial chromosome. Can contain genes for antibiotic resistance, or other "contingency" functions.
+Plasmolysis 
+This happens when a cell shrinks inside its cell wall while the cell wall remains intact.
+Plasmolyze 
+When the membrane shrinks away from the cell wall as a result of water loss.
+Pluripotent 
+Able to give rise to multiple, but not all, cell types.
+Point Mutations 
+Chemical changes in just one base pair of a gene
+Polar 
+Molecule with partial charges. Mixes with water.
+Pollen Tube 
+A tube that forms after germination of the pollen grain and that functions in the delivery of sperm to the ovule.
+Polyandry 
+One female, several males.
+Poly-A Tail 
+Modified end of the 3' end of an mRNA molecule consisting of the addition of some 50 to 250 adenine nucleotides.
+Polygamous 
+An individual of one sex mating with several of the other.
+Polygenic Inheritance 
+An additive effect of two or more genes on a single phenotypic character.
+Polygyny 
+One male, several females.
+Polymerase Chain Reaction 
+A technique for amplifying DNA in vitro by incubating with special primers, DNA polymerase molecules, and nucleotides.
+Polyphyletic Group 
+A taxonomic grouping consisting of several species that lack a common ancestor (more work is needed to uncover species that tie them together into a monophyletic clade).
+Polyploidy 
+In plants, the result of an extra set of chromosomes during cell division.
+Polyribosomes 
+Strings of ribosomes that work together to translate a RNA message.
+Population 
+Group of individuals of the same species living in the same area.
+Population Density 
+The size of the population within a particular unit of space.
+Population Genetics 
+Study of allele frequency distribution and change under the influence of evolutionary processes.
+Positional Information 
+The molecular cues that control pattern formation.
+Positive Feedback 
+A type of regulation that responds to a change in conditions by initiating responses that will amplify the change. Takes organism away from a steady state.
+Postsynaptic Cell 
+The neuron, muscle, or gland cell that receives the signal from a neuron.
+Postzygotic Barriers 
+Barriers that prevent the hybrid zygote from becoming a fertile adult.
+Potential Energy 
+Occurs when an object is not moving, but may still posses energy.
+Potential Range 
+An area where an organism could potentially survive and reproduce.
+Pressure Potential 
+This measurement has a minimum value of 0 (when the solution is open to the environment); it increases as pressure increases.
+Presynaptic Cell 
+The transmitting neuron in a synapse.
+Prezygotic Barriers 
+Barriers that impede mating or hinder fertilization.
+Primary Consumer 
+Herbivore.
+Primary Electron Acceptor 
+Specialized molecule that shares a reaction center with the chlorophyll a molecule in the light reaction. traps high energy electron before it can return to ground state in the chlorophyll.
+Primary Immune Response 
+Immune response the first time the body is exposed to a particular antigen. Does not peak until 10-17 days after exposure.
+Primary Production 
+Amount of light energy converted to chemical energy by autotrophs.
+Primary Structure 
+Chain of amino acids.
+Primary Succession 
+Succession that begins in a virtually lifeless area.
+Primary Transcript 
+The initial mRNA transcript that is transcribed from a protein coding gene. Also called pre-mRNA.
+Primase 
+An enzyme that joins RNA nucleotides to make the primer using the parental DNA strand as a template.
+Production Efficiency 
+The fraction of energy stored in food that was not used for cell respiration.
+Promiscuous 
+No strong pair bonds or lasting relationships.
+Promoter 
+A specific nucleotide sequence in DNA that binds RNA polymerase and indicates where to start transcribing mRNA.
+Prophage 
+A phage genome that has been inserted into a specific site on the bacterial chromosome.
+Prostaglandins 
+Modified fatty acids that are produced by a wide range of cells.
+Proteasomes 
+A giant protein complex that recognizes and destroys proteins tagged for elimination by the small protein ubiquitin.
+Protein Kinase 
+The enzyme that transfers phosphate groups from ATP to protein.
+Protein Phosphatases 
+Enzymes that can rapidly remove phosphate groups from proteins.
+Protobionts 
+Aggregates of abiotically produced molecules surrounded by a membrane.
+Proton-Motive Force 
+Emphasizes the capactiy of the gradient to preform work.
+Proton Pump 
+An electrogenic pump that works largely with H+ ions.
+Provirus 
+Viral DNA that inserts into a host genome.
+Proximate Questions 
+Address environmental stimuli, genetic, physiological, and anatomical causes of a behavior.
+PR Protein 
+A protein involved in plant responses to pathogens (PR = pathogenesis-related).
+Punctuated Equilibrium 
+A model of evolution in which a new species will change the most as it buds from a parent species, and then will change little for the rest of its existence.
+Punnett Square 
+A diagram for predicting the allele composition of offspring from a cross between individuals of known genetic makeup.
+Purines 
+Bases with a double-ring structure.
+Pyrimidines 
+Bases with a single-ring structure.
+UNIT
+Q
+Quantitative Characteristics 
+Characteristics that vary along a continuum, usually due to influence of two or more genes.
+Quantitative Characters 
+Characters that vary in the population along a continuum (in gradations).
+Quaternary Consumer 
+Carnivore that eats tertiary consumers.
+Quaternary Structure 
+Results from two or more polypeptide subunits.
+UNIT
+R
+Radicle 
+An embryonic root of a plant.
+Radioisotopes 
+Isotopes that have unstable nuclei and undergo radioactive decay.
+Radiometric Dating 
+Dating using decay of radioactive isotopes.
+Random Dispersion 
+Random spacing of individuals of the same species within an area.
+Reaction Center 
+The location of the first light driven chemical reaction of photosynthesis.
+Reading Frame 
+Reading mRNA nucleotides in the correct groupings.
+Realized Niche 
+The niche species actually occupies.
+Receptacle 
+The base of a flower; the part of the stem that is the site of attachment of the floral organs.
+Reception 
+The target cell's detection of a signal molecule coming from outside the cell.
+Receptor-mediated 
+A type of endocytosis in which the cell acquires bulk quantities of specific substances, even though they may not be very concentrated in the extracellular fluid.
+Receptor Tyrosine Kinase 
+A receptor with enzymatic activity that can trigger more than one signal transduction pathway at once, helping the cell regulate and coordinate many aspects of cell growth and reproduction.
+Recessive Allele 
+An allele that is masked when a dominant allele is present
+Recombinant Chromosomes 
+Chromosomes that carry genes from each parent.
+Recombinant DNA 
+A DNA molecule made in vitro with segments from different sources.
+Recombinant Types 
+Offspring who have inherited new combinations of genes and have phenotypes that don't match either parental phenotypes.
+Recticular Formation 
+Registers and controls activity level, increases excitement, and helps generate sleep.
+Redox Reactions 
+When there is a transfer of one or more electrons from one reactant to another.
+Reduced Hybrid Fertility 
+Sterile hybrids due to uneven chromosome number.
+Reduced Hybrid Viability 
+When the genes of different species interact and impair hybrid development.
+Reducing Agent 
+Donates electrons and becomes oxidized.
+Reduction 
+Gain of electrons.
+Regulator 
+An animal that uses internal control mechanisms to moderate internal change in the face of external fluctuation.
+Regulatory Gene 
+A gene that codes for a protein, such as a repressor, that controls the transcription of another gene or group of genes.
+Relative Abundance 
+The proportion of each species.
+Relative Fitness 
+Fitness of a particular genotype.
+Repeated Reproduction 
+Species that reproduce over and over.
+Replication Fork 
+A Y-shaped region on a replicating DNA molecule where new strands are growing.
+Repolarization 
+Return of the cell to resting state, caused by reentry of potassium into the cell while sodium exits the cell.
+Repressor 
+A protein that suppresses the transcription of a gene.
+Reproductive Cloning 
+Using a somatic cell from a multicellular organism to make one or more genetically identical individuals.
+Reproductive Isolation 
+Barriers that impede members of two different species fro producing fertile offspring.
+Reproductive Rate 
+Difference between per capita birth and per capita death rates.
+Reproductive Rates 
+Study of females to determine reproductive output and how it varies with age of female.
+Reproductive Table 
+Age-specific summary of reproductive rates in a population.
+Resource Partitioning 
+Differentiation of niches that enables similar species to coexist.
+Response 
+The transduced signal finally triggers a specific cellular response.
+Resting Potential 
+The membrane potential of a neuron that is at rest.
+Restoration Ecology 
+Applies ecological principles in an effort to return degraded ecosystems to conditions as similar as possible to their natural state.
+Restriction Enzyme 
+A degradative enzyme that recognizes and cuts up DNA (including that of certain phages) that is foreign to a bacterium.
+Restriction Fragment 
+The fragment of DNA that is produced by cleaving DNA with a restriction enzyme.
+Restriction Fragment Length Polymorphisms 
+Differences in the restriction sites on homologous chromosomes that result in different restriction fragment patterns.
+Restriction Point 
+A point of no return in the cell cycle; once this point passes, a cell is committed to a full round of the cell cycle.
+Restriction Site 
+A specific sequence on a DNA strand that is recognized as a cut siteby a restriction enzyme.
+Reticular Fibers 
+Fibers made of collagen fibers that are very thin and branched. Forma tightly woven fabric that joins connective tissue to adjacent tissues.
+Retrovirus 
+An RNA virus that reproduces by transcribing its RNA into DNA and then inserting the DNA into a cellular chromosome; an important class of cancer-causing viruses.
+Reverse Transcriptase 
+An enzyme encoded by some certain viruses (retroviruses) that uses RNA as a template for DNA synthesis.
+Rh Factor 
+Refers to the presence or absence of the Rh antigen on red blood cells.
+Ribosomal A Site 
+Site that holds the tRNA carrying the next amino acid to be added to the chain.
+Ribosomal E Site 
+Site where discharged tRNAs leave the ribosome.
+Ribosomal P Site 
+Site that holds tRNA carrying the growing polypeptide chain.
+rRNA 
+RNA molecules that construct ribosomal subunits.
+Ribosomes 
+Complex particles that facilitate the orderly linking of amino acids into polypeptide chains.
+Ribozymes 
+RNA molecules that function as enzymes.
+RNA Interference 
+Blocking gene expression by means of an miRNA silencing complex.
+RNA Polymerase 
+Enzyme that links together the growing chain of ribonucleotides during transcription.
+RNA Processing 
+The modification of mRNA before it leaves the nucleus that is unique to eukaryotes.
+RNA Splicing 
+Process by which the introns are removed from RNA transcripts and the remaining exons are joined together.
+Rough ER 
+A network of interconnected membranous sacs in a eukaryotic cell's cytoplasm; covered with ribosomes that make membrane proteins and secretory proteins.
+R Plasmid 
+A bacterial plasmid carrying genes that confer resistance to certain antibiotics.
+R-Selected Apecies 
+Life history traits maximize reproductive success in uncrowded environments. Many small offspring that mature quickly, little if any parental care.
+Rubisco 
+The most abundant protein on earth. Performs Carbon Fixation in the Calvin Cycle.
+UNIT
+S
+Salicylic Acid 
+A plant hormone that may be partially responsible for activating systemic acquired resistance to pathogens.
+Scaffolding Proteins 
+A type of large relay protein to which several other relay proteins are simultaneously attached to increase the efficiency of signal transduction.
+Schwann Cells 
+Type of glia in the PNS, Supporting cells of the peripheral nervous system responsible for the formation of myelin.
+Secondary Consumer 
+Carnivore that eats herbivores.
+Secondary Immune Response 
+Immune response after the body has already been exposed to a specific antigen. Response is faster, of greater magnitude, and more prolonged.
+Secondary Production 
+Amount of chemical energy in consumers' food that is converted to new biomass.
+Secondary Structure 
+Either an alpha helix or beta pleated sheet.
+Secondary Succession 
+Succession when an existing community has been cleared, but soil left intact.
+Second Law of Thermodynamics 
+Every energy transfer or transformation increases the entropy of the universe.
+Second Messengers 
+Small, non-protein water soluble molecules or ions that send messages throughout the cells by diffusion.
+Seed Coat 
+A tough outer covering of a seed, formed from the outer coat of an ovule.
+Selective Permeability 
+A property of a plasma membrane that allows some substances to cross more easily than others.
+Self-Incompatibility 
+The ability of a seed plant to reject its own pollen and sometimes the pollen of closely related individuals.
+Semelparity 
+Big-bang reproduction.
+Semiconservative Model 
+Type of DNA replication in which the replicated double helix consists of one old strand, derived from the old molecule, and one newly made strand.
+Sensitive Period 
+A limited phase in an animal's development that is the only time when certain behaviors can be learned.
+Sensory Neurons 
+Neurons that carry incoming information from the sense receptors to the central nervous system.
+Sepal 
+A modified leaf in angiosperms that helps enclose and protect a flower bud before it opens.
+Serial Endosymbiosis 
+Sequence of endosymbiotic events that led to an ancestral eukaryote.
+Serotonin 
+A neurotransmitter that affects hunger,sleep, arousal, and mood.
+Sex Chromosomes 
+X and Y chromosomes.
+Sex Linked Genes 
+Genes located on the sex chromosomes.
+Sexual Dimorphism 
+Differences between the sexes in secondary sexual characteristics.
+Sexual Recombination 
+Crossing over and shuffling of genes during meiosis.
+Sexual Reproduction 
+When two parents give unique combination of genes to offspring.
+Sexual Selection 
+Natural selection for mating success.
+Shared Derived Character 
+Evolutionary novelty unique to that clade.
+Shared Primitive Character 
+Trait shared beyond the taxon.
+Short-Day Plant 
+A plant that flowers only when the light period is shorter than a critical length. Usually fall or winter.
+Sickle-Cell Disease 
+Genetic disorder in which red blood cells have abnormal hemoglobin molecules and take on an abnormal shape.
+Signal 
+A behavior that causes change in another's behavior.
+Signal Peptide 
+A stretch of amino acids on a polypeptide that targets the protein to a specific destination in a eukaryotic cell.
+Signal-Recognition Particle 
+A protein-RNA complex that recognizes a signal peptide as it emerges from the ribosome.
+Signal Transduction 
+A series of molecular changes that converts a signal on a target cell's surface to a specific response inside the cell.
+Signal Transduction Pathway 
+The process by which a signal on a cell's surface is converted into a specific cellular response.
+Sign Stimulus 
+External sensory stimulus that triggers a fixed action pattern.
+Simple Epithelium 
+Single layer of cells.
+Simple Fruit 
+A fruit derived from a single carpel or several fused carpels.
+Single-Strand Binding Protein 
+Binds to and stabilizes single-stranded DNA until it can be used as a template.
+siRNAs
+RNAs of similar size and functions as miRNAs that inhibit gene expression.
+Sister Chromatids 
+Identical copies of a chromosome; full sets of these are created during the S subphase of interphase.
+Skeletal Muscle 
+Muscle that is striated, multinucleated.
+Smooth ER 
+Synthesis of lipids, phospholipids and steroid sex hormones-help detoxify drugs and poisons (liver cells).
+Smooth Muscle 
+Muscle that is not striated, is single nucleated.
+Social Learning 
+Learning through observing others.
+Solute 
+Something dissolved in a solution.
+Solute Potential 
+This measurement has a maximum value of 0; it decreases as the concentration of a solute increases.
+Solvent 
+Dissolving agent of a solution.
+Somatic Cell 
+Any of the cells of a plant or animal except the reproductive cells.
+Southern Blotting 
+A hybridization technique that enables researchers to determine the presence of certain nucleotide sequences in a sample of DNA.
+Spatial Learning 
+The modification of behavior based on experience with the spatial structure of the environment.
+Speciation 
+Origin of new species and the source of biological diversity.
+Species-Area Curve 
+The larger the geographic area, the greater the number of species.
+Species Diversity 
+Variety of different kinds of organisms that make up a community.
+Species Richness 
+Total number of different species.
+Species Transplant 
+Movement of a species to areas where it was previously absent.
+Specific Epithet 
+Second part of scientific name.
+S Phase 
+The synthesis phase of the cell cycle; the portion of interphase during which DNA is replicated.
+Spirilla 
+Spiral bacteria.
+Splicosome 
+Different particles that recognize splice sites are compiled in a large assembly. A complex of RNA and protein subunits. Removes introns from a transcribed pre-RNA segments.
+Spores 
+Produced by meiosis. Grow into haploid organisms by mitosis.
+Sporophyte 
+Diploid, or spore-producing, phase of an organism. Makes haploid spores by meiosis.
+Squamous Epithelium 
+Cells that are like floor tiles.
+Stabilizing Selection 
+Shift that favors the mean.
+Stamen 
+The pollen-producing reproductive organ of a flower, consisting of an anther and a filament.
+Standard Metabolic Rate 
+The metabolic rate of a resting, fasting, nonstressed ectotherm.
+Starch 
+Storage polysaccharide of plants.
+Stem Cell 
+Unspecialized cell that can both reproduce itself indefinitely and differentiate into specialized cells of one or more types.
+Steroids 
+Made of four rings of carbon.
+Sticky End 
+A single-stranded end of a double-stranded DNA restriction fragment.
+Stigma 
+The sticky part of a flower's carpel, which receives pollen grain.
+Stomata 
+Microscopic pores in the leaf which lets CO2 in and O2 out. Also where water is lost.
+Stratified Epithelium 
+Multiples tiers of cells.
+Stroma 
+The fluid of the chloroplast surrounding the thylakoid membrane; involved in the synthesis of organic molecules from carbon dioxide and water.
+Stromatolites 
+Oldest known fossils formed from many layers of bacteria and sediment.
+Structural Isomers 
+Differ in arrangement of atoms.
+Style 
+The stalk of a flower's carpel, with the ovary at the base and the stigma at the top.
+Substrate-Level Phosphorylation 
+When an enzyme transfers a phosphate group from a substrate molecule.
+Survivorship Curves 
+Graph of the proportion of a cohort still alive at each age.
+Sympathetic Division 
+The part of the autonomic nervous system that arouses the body to deal with perceived threats.
+Sympatric Speciation 
+Speciation without a divided population.
+Synapse 
+The junction between two neurons or between a neuron and a muscle.
+Synapsis 
+Homologous chromosomes pair up, aligned gene by gene.
+Synaptic Cleft 
+The narrow gap that separates the presynaptic neuron from the postsynaptic cell.
+Synaptic Terminal 
+A bulb at the end of an axon in which neurotransmitter molecules are stored and released.
+Synaptic Vesicles 
+Membrane-bounded compartments in which synthesized neurotransmitters are kept.
+Synthesis 
+To put together.
+Systematics 
+Analytical approach to understanding the diversity and relationships of present and past organisms.
+Systemic Acquired Resistance 
+A defensive response in infected plants that helps protect healthy tissue from pathogenic invasion.
+UNIT
+T
+TATA Box 
+A promoter DNA sequence crucial in forming the transcription initiation complex.
+Taxis 
+Automatic, oriented movement toward or away from some stimuli.
+Taxonomy 
+A classification of organisms into groups based on similarities.
+Tay-Sachs 
+disease A human genetic disease caused by a recessive allele that leads to the accumulation of certain lipids in the brain. Seizures, blindness, and degeneration of motor and mental performance usually become manifest a few months after birth.
+T Cell Receptor 
+Antigen receptors on a T cell. Unlike antibodies, T cell receptors are never produced in a secreted form.
+Telomerase 
+An enzyme that catalyzes the lengthening of telomeres in eukaryotic germ cells.
+Telomeres 
+Repeated DNA sequences at the ends of eukaryotic chromosomes.
+Temperate Phage 
+A phage that is capable of reproducing by either the lytic or lysogenic cycle.
+Template Strand 
+The DNA strand that provides the template for ordering the sequence of nucleotides in an mRNA transcript.
+Temporal Isolation 
+When two species breed at different times of day, season, or years.
+Tendons 
+Attach muscles to bones.
+Terminator 
+In prokaryotes, a special sequence of nucleotides in DNA that marks the end of a gene.
+Territoriality 
+Defense of a space against encroachment by other individuals.
+Tertiary Consumer 
+Carnivore that eats carnivores.
+Tertiary Structure 
+Results from interactions between side chains.
+Testcross 
+The result of breeding a recessive homozygote with an organism of dominant phenotype but unknown genotype.
+Tetrad 
+A pair of chromosomes form tetrads made up of four chromatids.
+Thalamus 
+Major input center for sensory information going to the cerebrum and the main output center for motor information leaving the cerebrum.
+Therapeutic Cloning 
+The cloning of human cells by nuclear transplantation for therapeutic purposes, such as the generation of embryonic stem cells to treat disease.
+Thermal Energy 
+Kinetic energy associated with the random movement of molecules or atoms.
+Thermophiles 
+Archaea that thrive in very hot environments, such as volcanic springs.
+Thermoregulation 
+Process of maintaining an internal temperature within a tolerable range.
+Thoracic Cavity 
+Cavity housing lungs and heart
+Threatened Species 
+Species that is likely to become endangered.
+Threshold Potential 
+The minimum membrane potential that must be reached in order for an action potential to be generated.
+Thylakoid 
+Membranous structures within a chloroplast that serve as the site for light harvesting in photosynthesis.
+Thymus 
+Gland in the thoracic cavity above the heart where T lymphocytes mature.
+Tissues 
+Groups of cells with a common structure and function.
+T Lymphocytes 
+Lymphocyte that matures in the thymus and acts directly against antigens in cell-mediated immune responses.
+Tonicity 
+The ability of a solution to cause a cell to gain or lose water; depends partly on concentration of nonpenetrating solutes relative to inside of cell.
+Top-Down Model 
+Influence moves from top trophic levels to bottom. (V <-- H)
+Topoisomerase 
+Enzyme that functions in DNA replication, helping to relieve strain in the double helix ahead of the replication fork.
+Torpor 
+Physiological state in which activity is low and metabolism decreases.
+Totipotent 
+Stem cells with the potential to differentiate into any type of cell.
+Totipotent 
+Cells that are able to develop into any type of cell found in the body.
+Trait 
+Each variant of a character.
+Transcription 
+Synthesis of an RNA molecule from a DNA template.
+Transcription Factors 
+Collection of proteins that mediate the binding of RNA polymerase and the initiation of transcription.
+Transcription Tnitiation Complex 
+The assembly of transcription factors and RNA polymerase.
+Transduction 
+The binding of the signal molecule changes the receptor protein in some way.
+tRNA 
+Interpreter of a series of codons along a mRNA molecule.
+Transformation 
+A change in genotype and phenotype due to the assimilation of external DNA by a cell.
+Translation 
+The synthesis of a polypeptide, which occurs under the direction of mRNA.
+Translocation 
+Change to a chromosome in which a fragment of one chromosome attaches to a nonhomologous chromosome.
+Transmembrane Proteins 
+Integral proteins that span the membrane.
+Transport 
+An exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes.
+Transport Protein 
+A membrane protein, specifically a transport protein, that has a hydrophilic channel that certain molecules or atomic ions use as a tunnel.
+Transport Vesicles 
+Vesicles in transit from one part of the cell to another.
+Transposable Genetic Element 
+A segment of DNA that can move within the genome of a cell by means of a DNA or RNA intermediate; also called a transposable element.
+Transposon 
+A transposable genetic element that moves within a genome by means of a DNA intermediate.
+Triple Response 
+A plant growth maneuver in response to mechanical stress, involving slowing of stem elongation, a thickening of the stem, and a curvature that causes the stem to start growing horizontally.
+Triplet Code 
+Three-nucleotide long set that specifies a specific amino acid for a polypeptide chain.
+Trisomic 
+A chromosomal condition in which a particular cell has an extra copy of one chromosome, instead of the normal two.
+Trophic Efficiency 
+Percentage of production transferred from one trophic level to the next.
+Trophic Structure 
+Feeding relationships between organisms in a community.
+Tropism 
+A growth response that results in the curvature of whole plant organs toward or away from stimuli owing to differential rates of cell elongation.
+True-Breeding 
+Organisms that, when reproducing, create offspring of all the same variety.
+Tryiacylglycerol 
+Glycerol and three fatty acids.
+Turgid 
+A cell with a cell wall that has a reasonable amount of pressure but is healthy.
+Turgor Pressure 
+The pressure inside of a cell as a cell pushes itself against the cell wall.
+Turnover 
+Seasonal changes in warm and cool water layers in lakes.
+Turnover Time 
+Standing crop biomass compared to production.
+Type I 
+Curve that shows low death rate at early and mid-life and drops at old age, as seen in humans and large animals.
+Type II 
+Curve that represents constant death rate over lifespan small animals and invertebrates.
+Type III 
+Curve that drops sharply at the start then levels off once individuals reach a critical age, as seen in organisms that produce large numbers of offspring.
+UNIT
+U
+Ultimate Questions 
+Address evolutionary significance of a behavior.
+Ultrametric Trees 
+Diagram in which length of a branch reflects amounts of actual time.
+Uniform Dispersion 
+The pattern in which individuals are equally spaced throughout a habitat.
+UNIT
+V
+Vaccine 
+A harmless variant or derivative of a pathogen that stimulates a host's immune system to mount defenses against the pathogen.
+Variation 
+Is demonstrated by the differences in appearance that offspring show from parents and siblings.
+Vasoconstriction 
+Reduces blood flow and heat transfer by decreasing the diameter of superficial blood vessels.
+Vasodialation 
+Increases in the diameter of superficial blood vessels; cools the body.
+Veins 
+Bundles of xylem and phloem.
+Vernalization 
+The use of cold treatment to induce a plant to flower.
+Vesicle 
+Small membrane-bound sac that functions in moving products into, out of, and within a cell.
+Vestigial Structures 
+Are little or no importance to organism, but remain from an ancestor.
+Viral Envelope 
+A membrane that cloaks the capsid that in turn encloses a viral genome.
+Voltage-Gated Ion Channels 
+Channels that open or close in response to a change in the membrane potential.
+UNIT
+W
+Water Potential 
+The physical property predicting the direction in which water will flow, governed by solute concentration and applied pressure.
+Watson and Crick 
+Developed the double helix model of DNA.
+White Matter 
+Whitish nervous tissue of the CNS consisting of neurons and their myelin sheaths.
+Wobble 
+Flexibility in the base-pairing rules in which the nucleotide at the 5' end of a tRNA anticodon can form hydrogen bonds with more than one kind of base in the third position of a codon.
+UNIT
+X
+X Linked Genes 
+Genes found on the X chromosome.
+XO System 
+A sex determination system in some insects in which O stands for the absence of a sex chromosome. Females are XX, Males are XO. Males produce two classes of sperm: X sperm and sperm with no chromosome. The sperm determines the sex of the offspring.
+XY System 
+A sex determination system in which females have two of the same kind of sex chromosome and males have two different ones.
+UNIT
+Y
+Yeast Artificial Chromosome 
+A cloning vector that has telomeres and a centromere that can accommodate large DNA inserts and uses the eukaryote yeast as a host cell.
+UNIT
+Z
+Zero Population Growth 
+When per capita birth and death rates are equal. (r = 0)
+ZW System 
+A sex determination system in fish, butterflies, birds where males are ZZ and Females are ZW. The egg determines the sex of the offspring.
+Zygote 
+Fertilized egg. Carries one set of chromosomes from each parent.

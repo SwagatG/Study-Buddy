@@ -1,0 +1,170 @@
+This is a manual for STUDY BUDDY, created by Swagat Ghimire.
+
+I recommend that every user read section 1, as understanding it is crucial to using the app.
+
+Section 2 is an optional read, and much of what is covers can be discovered by playing around with
+the application.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TABLE OF CONTENTS:
+	1) Inputting Data
+		A) The Input Files
+		B) Input Format
+		C) Edditing, Adding, And Deleting Words
+		D) Sample Input
+	2) Functions Of The Program
+		A) Random Word Generation
+		B) Saving Words to Review
+		C) Mastery Mode
+		D) Editting And Deleting Words
+		E) Outputting A Formatted Word List (Easy to Alphabetize)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SECTION 1: INPUTTING DATA
+
+This application must be able to understand the information you have prepared, and as such, you
+must perfectly follow these instructions in order for it to properly function.
+
+	PART A) THE INPUT FILES
+	The program has been instructed to read information from the file "1-InputWords.txt".
+	Because of this, you must copy all of your data onto the said file. It is advised that you
+	compile list on a separate file (Google Doc or Microsoft Word type documents), as they are
+	much easier to work with than txt files. You can then quickly copy paste your data. See
+	section 1B for information on formatting.
+
+	Adittionaly, it is crucial that the program "StudyBuddy.exe" is in the same folder as
+	the "1-InputWords.txt" file.
+	
+	After using the program, you may notice that a "2-StudyData.dat" file has been created in
+	the same folder as the program. Please avoid tampering with, moving, or deleting this file,
+	as it stores all of your save data, and mastery data (see sections 2B and 2C to know about
+	those features).
+
+	PART B) INPUT FORMAT
+	The program allows you to separate your words by unit. So you will have to provide it with
+	not only terms and definitions, but also unit markers (to mark the start of a new unit),
+	and the unit names.
+
+	The start of every unit (including the first one) should have the word "UNIT" (in all caps,
+	exactly as shown). Then on the next line (no spaces after the word UNIT please), the name
+	of that unit should be placed. On the next line you may place a term (you may have
+	empty units if you so fancy), and on the following line, must have the definition. The
+	definitions may be as long as necessary (if it appears to be on two lines, that's okay,
+	just don't press 'enter' in the middle of it). After this you may place more word-definition
+	pairs, or start a new unit as explained earlier.
+
+	PART C) EDITTING, ADDING, AND DELETING WORDS
+	You may edit words and definitions (to fix typos) directly on the "1-InputWords.txt" file
+	(you can also do this through the app as explained in section 2D). However, if you wish to 
+	add or delete words, you must be very careful and follow these instructions. This is because
+	the saved data on your study terms and mastery information may be ruined if you do not do
+	as instructed.
+
+	DELETING WORDS:
+	1) Open the "StudyBuddy.exe" application.
+	2) From the main menu, choose option 4 (See and Edit Words)
+	3) In the following menu, select the unit of the word you wish to delete.
+	4) In the following menu, select the word you wish to delete.
+	5) In the following menu, Press "D" to delete the word.
+	6) Confirm you want to delete the word by pressing "Y".
+	7) NOTE: If you messed up, you may close the app at this point, and it won't save the delete
+	8) After pressing any key to continue, your delete will be saved.
+
+	ADDING WORDS:
+	1) Open the "1-InputWords.txt" file (or the word document containing the same information).
+	2) Find the location of the unit in which you wish to add a word.
+	3) AFTER the LAST word in that unit, add your word on a new line, and the definition on the
+	   following line.
+	4) you may do this as much as you wish.
+	NOTE: New units may also be added; new units must be added after the last unit in the
+	"1-InputWords.txt" file. 
+
+	PART D) SAMPLE INPUT
+	Try copy pasting the below information onto the "1-InputWords.txt" file (Start copying the
+	line after the asterisk '*' and end the line before the second asterisk). Save the file and
+	open the "StudyBuddy.exe" application to see how it works. You can play around with 
+	it, but if you stray from the proper formatting, you may cause the program to crash or not 
+	work properly.
+
+*
+UNIT
+Mammals
+Lion
+King of the animals.
+Human
+Also known as a Homo Sapien.
+Dog
+Called Man's Best Friend.
+UNIT
+Birds
+Penguin
+Found in the South Pole. Includes the Emperor type.
+Parrot
+Can be found perched on the shoulders of Pirates. Often repeat phrases.
+Toucan
+Found in tropical climates and on Froot Loops Boxes.
+UNIT
+Fish
+Bass
+A water dwelling creature that is spelled like a musical term.
+Salmon
+An often pink coloured fish. But adding 'ella' to the end of its name gets you a bacteria.
+*
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+SECTION 2: FUNCTIONS OF THE PROGRAM
+Upon opening the ""StudyBuddy.exe" file, you may do any of the following. Note that much of
+the below information is very intuitive for people who have been using computers and english for a
+while.
+
+	PART A) RANDOM WORD GENERATION
+	1) After opening the app, press any key to see the main menu.
+	2) Select option 1 (Randomly Practice Words)
+	3) In the next menu, Select the unit you wish to practice (or 0 to practice everything)
+	4) Definitions from the chosen unit will randomly be generated. Press any key to see the
+	   related word.
+	5) From here, you may save words to review (see section 2B), generate another word, or
+	   return to the main menu.
+
+	B) Saving Words to Review
+	You may save particularly tricky words to review separately. It is possible to do this
+	from the random word generation mode, mastery mode browsing and editting
+	mode. These words can also be removed from the saved list from any of the above modes,
+	as well as in the practice saved words mode.
+	
+	You may choose to practice saved words from certain units, or all units, as with the
+	random word generation mode.
+
+	If you wish to clear all saved terms, you may delete the "2-StudyData.dat" file. 
+	NOTE: This will also delete all mastery data.
+
+	C) Mastery Mode
+	In mastery mode, you will be able to type in the answers to the definition. The marker
+	ignores the case of the letters you enter, but spelling is important. If you correctly
+	type in the word that corresponds to the definition, your mastery streak will increase.
+	When your streak is 3, the word will be mastered and will then be seen less frequently.
+	Errors reset the streak to 0.
+	
+	As with the above sections, you may choose to do this for a certain unit, or the entire
+	word list.
+
+	If you wish to clear all mastery data, you may delete the "2-StudyData.dat" file. 
+	NOTE: This will also delete all saved terms.
+
+	D) Editting And Deleting Words
+	As explained in section 1C, you may edit and delete words in the program.
+	
+	E) Outputting A Formatted Word List (Easy to Alphabetize)
+	If you wish to do so, you may output all of your words onto a text file in the following
+	format:
+	Word1: Definition 1
+	Word2: Definition 2
+	and so on. These words are not alphabetized, but that can be done by copying the
+	data onto a Microsoft Word Document, a Google Doc, or other similar program.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Good Luck, and I hope this program helps.
+~Swagat
