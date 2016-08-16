@@ -3,7 +3,7 @@ A C++ application designed to help students <i><b>succeed</b></i>.
 ______________________________________________________________________________________________________________________________________
 
 <h2>The Story Behind Study Buddy</h2>
-My grade 12 Biology teacher's was known to be very tough, but also, thoroughly rewarding. For a cumulative test, we were to be given 50 definitions to which we had to match 50 terms. A few weeks before this test, we were instructed to create an exhaustive list of all the terms we had encountered. If the list was deemed comprehensive, the definitions on the test would only be those that defined a term on the list. Thus the class was incentivized to put together a passable list, and create their own definitions to study.
+My grade 12 Biology teacher was known to be very tough, but also, thoroughly rewarding. For a cumulative test, we were to be given 50 definitions to which we had to match 50 terms. A few weeks before this test, we were instructed to create an exhaustive list of all the terms we had encountered. If the list was deemed comprehensive, the definitions on the test would only be those that defined a term on the list. Thus the class was incentivized to put together a passable list, and create their own definitions to study.
 
 This is where I got the idea for Study Buddy. I realized that reading through a 1000 words and definitions on a Google Doc was not the best way for me to memorize these terms. I yearned for a more efficient system to learn, and I laid out certain desires:
 <ul style="list-style-type:disc">
